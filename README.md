@@ -6,5 +6,5 @@ A simple Node.js script that simulates user registration and sends a confirmatio
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/rohitkr5850/node2.git
    cd node-user-registration
